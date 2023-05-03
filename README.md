@@ -1,6 +1,5 @@
 # Flow Pushback
 Script para uso no Microsoft Flight Simulator 2020 juntamente com o addon FLOW da Parallel42.
-Criado por Judenilson Araujo Silva
 
 ![](img.png)
 
